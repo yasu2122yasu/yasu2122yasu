@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang,Flutter,Vue.js,React,Laravel...
 - 🌱 I’m currently learning Golang,Larave,AWS...
 - 💞️ I love Fintech
-- 📫 How to reach me ya2su1shi2@icloud.com
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasu2122yasu&layout=compact&count_private=true&show_icons=true&theme=onedark" />
