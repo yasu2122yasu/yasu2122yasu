@@ -2,7 +2,7 @@
 Hi, I'm Japanese engineer. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,laravel,mysql,ts,js,html,css,react,nextjs,vue,astro,sass,tailwind,vite,webpack,firebase,vercel,aws,git,github,githubactions,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,laravel,mysql,ts,js,html,css,react,nextjs,vue,sass,tailwind,vercel,aws,git,github,githubactions,figma" />
 
 
 ## 📈 Status
