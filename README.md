@@ -12,7 +12,7 @@ Hi, I'm Japanese engineer. 🤝
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yasu2122yasu" />
 </p>
 
-## 🥅　 Loadmap of 2023
+## 🥅　Loadmap of 2023
 - AWS SAA
 - AWS Developer
 - AWS SOP
