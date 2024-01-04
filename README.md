@@ -13,6 +13,7 @@ Hi, I'm Japanese engineer. 🤝
 </p>
 
 ## Loadmap of 2023
-- AWS SAA
-- AWS Developer
-- AWS SOP
+### Infrastructure
+- AWS SAA (Solutions Architect Associate)
+- AWS DVA (Developer Assosiate)
+- AWS SOA (SysOps Administrator Associate)
