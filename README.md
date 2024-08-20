@@ -11,9 +11,3 @@ Hi, I'm Japanese engineer. 🤝
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasu2122yasu&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yasu2122yasu" />
 </p>
-
-## Loadmap of 2023
-### Infrastructure
-- AWS SAA (Solutions Architect Associate)
-- AWS DVA (Developer Assosiate)
-- AWS SOA (SysOps Administrator Associate)
