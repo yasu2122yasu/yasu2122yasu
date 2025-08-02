@@ -2,7 +2,7 @@
 Hi, I'm Japanese engineer. 🤝
 
 ### 🦾 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,laravel,mysql,ts,ruby" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,laravel,mysql,ts,ruby,dart" />
 
 
 ## 📈 Status
